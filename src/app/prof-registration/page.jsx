@@ -163,7 +163,7 @@ export default function ProfRegister() {
   };
 
   return (
-    <main className="min-h-screen bg-gradient-to-l from-[#2e1a47] to-[#1a0d34] text-white mt-15 md:mt-25">
+    <main className="min-h-screen bg-gradient-to-l from-[#2e1a47] to-[#1a0d34] text-white mt-15 md:mt-35">
       <Nav />
 
       {!user ? (
